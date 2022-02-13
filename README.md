@@ -29,6 +29,10 @@ poetry run python run.py
 - Customer Order Management [CRUD]
 - Restaurant Order Management [CRUD]
 
+## Database Refence
+
+Please follow the [link](4_project_docs/burgerzilla_db_schema.md)
+
 ## API Reference
 Please follow the [link](4_project_docs/burgerzilla_api_reference.md)
 
